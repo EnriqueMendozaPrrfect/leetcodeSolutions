@@ -22,6 +22,9 @@ Each solution file follows this format:
 | #    | Problem                                                                                              | Difficulty | Topics                     |
 | ---- | ---------------------------------------------------------------------------------------------------- | ---------- | -------------------------- |
 | 761  | [Special Binary String](src/specialBinaryString.ts)                                                  | Hard       | Recursion, Strings, Sorting |
+| 762  | [Prime Number of Set Bits in Binary Representation](src/primeNumberOfSetBitsInBinaryRepresentation.ts) | Easy       | Bit Manipulation, Math      |
+| 868  | [Binary Gap](src/binaryGap.ts)                                                                        | Easy       | Bit Manipulation             |
+| 1461 | [Check If a String Contains All Binary Codes of Size K](src/checkIfAStringContainsAllBinaryCodesOfSizeK.ts) | Medium | Hash Table, String, Bit Manipulation |
 
 > The table will be updated as new solutions are added.
 
