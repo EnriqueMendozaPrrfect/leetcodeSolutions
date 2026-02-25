@@ -25,6 +25,7 @@ Each solution file follows this format:
 | 762  | [Prime Number of Set Bits in Binary Representation](src/primeNumberOfSetBitsInBinaryRepresentation.ts) | Easy       | Bit Manipulation, Math      |
 | 868  | [Binary Gap](src/binaryGap.ts)                                                                        | Easy       | Bit Manipulation             |
 | 1022 | [Sum of Root To Leaf Binary Numbers](src/sumRootToLeatBinaryNumbers.ts)                                | Easy       | Tree, DFS                    |
+| 1356 | [Sort Integers by The Number of 1 Bits](src/sortIntegersByTheNumberOf1Bits.ts)                         | Easy       | Array, Bit Manipulation, Sorting |
 | 1461 | [Check If a String Contains All Binary Codes of Size K](src/checkIfAStringContainsAllBinaryCodesOfSizeK.ts) | Medium | Hash Table, String, Bit Manipulation |
 
 > The table will be updated as new solutions are added.
