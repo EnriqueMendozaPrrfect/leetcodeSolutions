@@ -26,6 +26,7 @@ Each solution file follows this format:
 | 868  | [Binary Gap](src/binaryGap.ts)                                                                        | Easy       | Bit Manipulation             |
 | 1022 | [Sum of Root To Leaf Binary Numbers](src/sumRootToLeatBinaryNumbers.ts)                                | Easy       | Tree, DFS                    |
 | 1356 | [Sort Integers by The Number of 1 Bits](src/sortIntegersByTheNumberOf1Bits.ts)                         | Easy       | Array, Bit Manipulation, Sorting |
+| 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](src/numberOfStepsToReduceANumberInBinaryRepresentationToOne.ts.ts) | Medium | String, Bit Manipulation |
 | 1461 | [Check If a String Contains All Binary Codes of Size K](src/checkIfAStringContainsAllBinaryCodesOfSizeK.ts) | Medium | Hash Table, String, Bit Manipulation |
 
 > The table will be updated as new solutions are added.
